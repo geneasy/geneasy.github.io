@@ -6,6 +6,7 @@ A command line tool that can easily generate HTML, Markdown documents, etc.
 
 - [GenEasy](https://github.com/geneasy/geneasy)
 - [友情链接模版](https://github.com/geneasy/links)
+- [网址导航模版](https://github.com/geneasy/nav)
 
 Copyright (c) 2021 [Pipecraft][my-url]. Licensed under the [MIT license][license-url].
 
